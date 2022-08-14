@@ -115,6 +115,7 @@ article > h1 {
 
 article > h2 {
     font-family: var(--fonteAndroid);
+    color: var(--cor04);
     background-image: linear-gradient(to right, #83e1ad, transparent);
     text-indent: 15px;
 }
